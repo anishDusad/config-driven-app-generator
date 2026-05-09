@@ -17,11 +17,7 @@ Inspired by modern internal tooling and low-code platforms like Base44, Retool, 
 
 # Live Demo
 
-## Frontend
 https://buildo-ml690al3h-anish-dusads-projects.vercel.app
-
-## Backend
-https://app-generator-backend-3bnf.onrender.com
 
 ---
 
