@@ -16,6 +16,8 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
+
+      "https://buildo-ml690al3h-anish-dusads-projects.vercel.app",
     ],
 
     credentials: true,
