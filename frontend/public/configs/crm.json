@@ -1,0 +1,88 @@
+{
+  "appName": {
+    "en": "CRM System",
+    "hi": "सीआरएम सिस्टम"
+  },
+
+  "entities": [
+    {
+      "name": "customers",
+
+      "label": {
+        "en": "Customers",
+        "hi": "ग्राहक"
+      },
+
+      "fields": [
+        {
+          "name": "fullName",
+
+          "label": {
+            "en": "Full Name",
+            "hi": "पूरा नाम"
+          },
+
+          "type": "text",
+
+          "required": true,
+
+          "placeholder": "Enter full name"
+        },
+
+        {
+          "name": "email",
+
+          "label": {
+            "en": "Email",
+            "hi": "ईमेल"
+          },
+
+          "type": "email",
+
+          "required": true,
+
+          "placeholder": "Enter email"
+        },
+
+        {
+          "name": "age",
+
+          "label": {
+            "en": "Age",
+            "hi": "उम्र"
+          },
+
+          "type": "number",
+
+          "placeholder": "Enter age"
+        },
+
+        {
+          "name": "company",
+
+          "label": {
+            "en": "Company",
+            "hi": "कंपनी"
+          },
+
+          "type": "text",
+
+          "placeholder": "Enter company"
+        },
+
+        {
+          "name": "notes",
+
+          "label": {
+            "en": "Notes",
+            "hi": "नोट्स"
+          },
+
+          "type": "textarea",
+
+          "placeholder": "Additional notes"
+        }
+      ]
+    }
+  ]
+}
