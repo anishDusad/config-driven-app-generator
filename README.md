@@ -483,17 +483,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-# Screenshots
-
-Add screenshots here:
-- authentication screen
-- dashboard UI
-- dynamic forms
-- dynamic tables
-- CSV import
-- responsive mobile UI
-
----
 
 # Author
 
