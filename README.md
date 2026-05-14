@@ -487,7 +487,6 @@ JWT_SECRET=your_secret_key
 
 Anish Dusad
 
----
 
 # License
 
