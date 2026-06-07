@@ -1,4 +1,4 @@
-# AI App Generator
+# Config-Driven Fullstack Application Generator
 
 A dynamic config-driven application generator that converts structured JSON configurations into fully functional fullstack applications.
 
